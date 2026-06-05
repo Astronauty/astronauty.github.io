@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielnguyen.github.io/sitemap.xml
+Sitemap: https://astronauty.github.io/sitemap.xml
